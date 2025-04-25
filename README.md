@@ -1,7 +1,7 @@
 # The Death Penalty and lethal crime: A multi-city analysis with socioeconomic insights at the State and City Levels
 
 ## PowerBI Dashboard
-Link: https://app.powerbi.com/view?r=eyJrIjoiNjNkYzEyODAtNWJjZi00MTBhLWJlN2YtNWViYWNkYTk4YzU4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=d42759482d93cba4c58c
+Link: https://app.powerbi.com/view?r=eyJrIjoiOWIyNzM4MTItOTE3ZC00MmQ0LWE0MTUtMWRjM2NhYmNlNTVkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 
 
